@@ -47,11 +47,11 @@ In this app there are some endpoint that available
 
     #### Request
 
-    <img src="screenshot/screenshot (17).jpg" />
+    <img src="screenshot/Screenshot (17).jpg" />
 
     #### Response
 
-    <img src="screenshot/screenshot (18).jpg" />
+    <img src="screenshot/Screenshot (18).jpg" />
 
 2.  Create Product
 
@@ -69,15 +69,15 @@ In this app there are some endpoint that available
 
     #### Request
 
-    <img src="screenshot/screenshot (10).jpg" />
+    <img src="screenshot/Screenshot (10).jpg" />
 
     #### Response
 
-    <img src="screenshot/screenshot (12).jpg" />
+    <img src="screenshot/Screenshot (12).jpg" />
 
     #### Response (if not a seller)
 
-    <img src="screenshot/screenshot (11).jpg" />
+    <img src="screenshot/Screenshot (11).jpg" />
 
 3.  Inquiry Product (Create Invoice)
 
@@ -94,11 +94,11 @@ In this app there are some endpoint that available
 
     #### Request
 
-    <img src="screenshot/screenshot (13).jpg" />
+    <img src="screenshot/Screenshot (13).jpg" />
 
     #### Response
 
-    <img src="screenshot/screenshot (14).jpg" />
+    <img src="screenshot/Screenshot (14).jpg" />
 
 4.  Payment Product
 
@@ -115,11 +115,11 @@ In this app there are some endpoint that available
 
     #### Request
 
-    <img src="screenshot/screenshot (15).jpg" />
+    <img src="screenshot/Screenshot (15).jpg" />
 
     #### Response
 
-    <img src="screenshot/screenshot (16).jpg" />
+    <img src="screenshot/Screenshot (16).jpg" />
 
 5.  Register
 
@@ -139,15 +139,15 @@ In this app there are some endpoint that available
 
     #### Request
 
-     <img src="screenshot/screenshot (4).jpg" />
+     <img src="screenshot/Screenshot (4).jpg" />
 
     #### Response
 
-     <img src="screenshot/screenshot (5).jpg" />
+     <img src="screenshot/Screenshot (5).jpg" />
 
     #### Insert Token
 
-     <img src="screenshot/screenshot (19).jpg" />
+     <img src="screenshot/Screenshot (19).jpg" />
 
 6.  Login
 
@@ -166,15 +166,15 @@ In this app there are some endpoint that available
 
     #### Request
 
-     <img src="screenshot/screenshot (8).jpg" />
+     <img src="screenshot/Screenshot (8).jpg" />
 
     #### Response
 
-     <img src="screenshot/screenshot (9).jpg" />
+     <img src="screenshot/Screenshot (9).jpg" />
 
     #### Insert Token
 
-     <img src="screenshot/screenshot (19).jpg" />
+     <img src="screenshot/Screenshot (19).jpg" />
 
 ## Stack Used
 
